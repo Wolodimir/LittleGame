@@ -8,6 +8,6 @@ public class SecuredControllerTest {
 
     @GetMapping("/")
     public String first(){
-        return "Fuck off";
+        return "SECIRED FUCK OFF!!!";
     }
 }
